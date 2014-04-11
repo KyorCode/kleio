@@ -1,0 +1,32 @@
+{
+    "name": "kleio",
+    "version": "0.0.0",
+    "description": "Blog stuff",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/KyorCode/kleio.git"
+    },
+    "keywords": [
+        "blog"
+    ],
+    "author": "t-c@live.be",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/KyorCode/kleio/issues"
+    },
+    "homepage": "https://github.com/KyorCode/kleio",
+    "devDependencies": {
+        "gulp": "~3.6.0",
+        "gulp-jshint": "~1.5.3",
+        "mocha": "~1.18.2",
+        "npm-check-updates": "~1.2.0",
+        "must": "~0.11.0",
+        "sinon": "~1.9.1",
+        "gulp-markdown": "~0.1.2",
+        "gulp-sass": "~0.7.1"
+    }
+}
